@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpProjectServersManager">
+    <servers>
+      <server host="docker.loc" id="b9691d70-d35b-4515-83ce-3442d5dfaeec" name="docker.loc" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="/application" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+</project>
